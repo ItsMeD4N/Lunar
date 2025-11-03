@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/ItsMeD4N/Roblox-Lua-Executor?style=for-the-badge"/>
 </p>
 
-A **super clean and modern Roblox Lua script executor** built with **C# and DLL injection**. Features a dark-themed custom UI, tabbed Lua editor, and built-in support for external APIs like Nezur, Velocity, and Xeno.
+A **super clean and modern Roblox Lua script executor** built with **C# and DLL injection**. Features a dark-themed custom UI, tabbed Lua editor, and built-in support for external APIs like Nezur, Velocity, and Xeno
 
 ---
 
